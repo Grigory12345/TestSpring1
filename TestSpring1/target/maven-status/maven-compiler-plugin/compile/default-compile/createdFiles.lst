@@ -1,0 +1,8 @@
+ru\alishev\springcourse\util\PersonValidator.class
+ru\alishev\springcourse\dao\PersonDAO$1.class
+ru\alishev\springcourse\controllers\PeopleController.class
+ru\alishev\springcourse\config\MySpringMvcDispatcherSerlvetIntitializer.class
+ru\alishev\springcourse\models\Person.class
+ru\alishev\springcourse\config\SpringConfig.class
+ru\alishev\springcourse\dao\PersonDAO.class
+ru\alishev\springcourse\controllers\BatchController.class
